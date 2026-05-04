@@ -1,0 +1,8 @@
+model,metric,value,baseline
+K-Means (A),Silhouette,0.2962,N/A
+Random Forest (A),Accuracy,0.5001,0.5012
+Random Forest (A),AUC-ROC,0.4997,0.5
+Random Forest (A),F1 Score,0.4999,0.5
+ALS CF (B),RMSE,0.7924,0.4649
+ALS CF (B),MAE,0.6356,N/A
+ALS CF (B),R2,-1.7376,0.0

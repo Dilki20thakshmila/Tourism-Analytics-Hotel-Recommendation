@@ -1,0 +1,9 @@
+prediction,count,avg_adr,avg_nights,avg_lead_days,avg_special_req,prev_cancels,avg_guests,label
+0,12465,236.34,5.95,276.0,2.1,1.0,3.49,"Luxury Guests
+(high ADR, premium)"
+1,12464,236.9,6.04,86.7,1.89,1.0,3.53,"Luxury Guests
+(high ADR, premium)"
+2,12711,113.35,6.14,162.2,3.24,1.01,3.53,"Advance Planners
+(early bookings)"
+3,12360,113.35,5.85,204.5,0.74,1.02,3.46,"Advance Planners
+(early bookings)"
