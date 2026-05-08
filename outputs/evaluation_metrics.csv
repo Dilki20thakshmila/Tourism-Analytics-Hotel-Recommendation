@@ -1,8 +1,11 @@
 model,metric,value,baseline
 K-Means (A),Silhouette,0.2962,N/A
-Random Forest (A),Accuracy,0.4967,0.5012
-Random Forest (A),AUC-ROC,0.4993,0.5
-Random Forest (A),F1 Score,0.4955,0.5
-ALS CF (B),RMSE,1.489,1.3182
-ALS CF (B),MAE,1.1295,N/A
-ALS CF (B),R2,-0.278,0.0
+GBT (A),Accuracy,0.8359,0.2518
+GBT (A),AUC-ROC,0.8785,0.5
+GBT (A),AUC-PR,0.9509,0.5
+GBT (A),F1 Score,0.8304,0.5
+GBT (A),Weighted Prec.,0.829,0.5
+GBT (A),Weighted Recall,0.8359,0.5
+ALS CF (B),RMSE,1.2177,1.0744
+ALS CF (B),MAE,0.8754,N/A
+ALS CF (B),R2,-0.2876,0.0
